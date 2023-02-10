@@ -1,3 +1,5 @@
+import re
+
 str = "happy2023"
 
 print(len(str))
@@ -34,7 +36,21 @@ print(Str3)
 
 print("The string with every letter replaced by a space:")
 
-import re
 string = "happy 2023"
 new_str = re.sub(r"[^0-9]", " ", string)
 print(new_str)
+
+string = "happy 2023"
+
+newStr = ""
+
+for char in list(string):
+    
+    if char.isalnum():
+        newStr += " "
+    else:
+        newStr += char
+
+print( f"[{newStr}]" )
+
+
