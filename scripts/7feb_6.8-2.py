@@ -34,7 +34,7 @@ print(Str3)
 
 print("The string with every letter replaced by a space:")
 
-string = "AA**BB#@$CC 가나다-123"
-
-new_str = re.sub(r"[^0-9]", "", string)
+import re
+string = "happy 2023"
+new_str = re.sub(r"[^0-9]", " ", string)
 print(new_str)
