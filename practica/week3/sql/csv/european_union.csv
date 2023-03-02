@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Code,Name,Member-Since,groups
 AUT,Austria,1995-01-01,
 BEL,Belgium,1958-01-01,benelux
@@ -28,6 +29,8 @@ SVN,Slovenia,2004-05-01,
 ESP,Spain,1986-01-01,
 SWE,Sweden,1995-01-01,
 =======
+=======
+>>>>>>> 7eb3d77c0457932ebc2257748d1c6f8b8070ebc9
 Code,Name,Member-Since
 AUT,Austria,1995-01-01
 BEL,Belgium,1958-01-01
@@ -56,4 +59,7 @@ SVK,Slovakia,2004-05-01
 SVN,Slovenia,2004-05-01
 ESP,Spain,1986-01-01
 SWE,Sweden,1995-01-01
+<<<<<<< HEAD
+>>>>>>> 7eb3d77c0457932ebc2257748d1c6f8b8070ebc9
+=======
 >>>>>>> 7eb3d77c0457932ebc2257748d1c6f8b8070ebc9

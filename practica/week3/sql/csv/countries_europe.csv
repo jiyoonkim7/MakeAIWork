@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 zoom,name,abbreviation,Code,ISO numeric,land area km,population,latitude,longitude,continent,groups
 3,Ukraine,Ukr.,UKR,804,603700,45415596,49.00,32.00,eu,
 3,France,Fr.,FRA,250,547030,64768389,46.00,2.00,eu,
@@ -48,6 +49,8 @@ zoom,name,abbreviation,Code,ISO numeric,land area km,population,latitude,longitu
 4,Monaco,Monaco,MCO,492,2,32965,43.73,7.42,eu,
 4,Vatican City,Vatican City,VAT,336,0.4,921,41.90,12.45,eu,
 =======
+=======
+>>>>>>> 7eb3d77c0457932ebc2257748d1c6f8b8070ebc9
 zoom,name,abbreviation,Code,ISO numeric,land area km,population,latitude,longitude,continent
 3,Ukraine,Ukr.,UKR,804,603700,45415596,49.00,32.00,eu
 3,France,Fr.,FRA,250,547030,64768389,46.00,2.00,eu
@@ -95,5 +98,9 @@ zoom,name,abbreviation,Code,ISO numeric,land area km,population,latitude,longitu
 4,San Marino,S. Mar.,SMR,674,61.2,31477,43.93,12.42,eu
 4,Gibraltar,Gib.,GIB,292,6.5,27884,36.13,-5.35,eu
 4,Monaco,Monaco,MCO,492,2,32965,43.73,7.42,eu
+<<<<<<< HEAD
+4,Vatican City,Vatican City,VAT,336,0.4,921,41.90,12.45,eu
+>>>>>>> 7eb3d77c0457932ebc2257748d1c6f8b8070ebc9
+=======
 4,Vatican City,Vatican City,VAT,336,0.4,921,41.90,12.45,eu
 >>>>>>> 7eb3d77c0457932ebc2257748d1c6f8b8070ebc9
